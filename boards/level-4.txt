@@ -1,0 +1,7 @@
+Negru : 3
+Andrei : 4
+Vilica: 5
+
+Minca : 7
+Sergiu: 7
+Gabi: 11
